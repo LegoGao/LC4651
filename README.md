@@ -8,3 +8,4 @@
 |3|[Binary Search](https://github.com/LegoGao/LC4651/tree/master/Binary%20Search)|[278.First Bad Version](https://github.com/LegoGao/LC4651/blob/master/Binary%20Search/L3_278_First%20Bad%20Version.java)|[34](https://github.com/LegoGao/LC4651/blob/master/Binary%20Search/L3_HW_34.Search%20for%20a%20Range.java)|二分模板|
 |4|[DFS](https://github.com/LegoGao/LC4651/tree/master/DFS)|[46.Permutations](https://github.com/LegoGao/LC4651/blob/master/DFS/L3_46_Permutations.java)|[78](https://github.com/LegoGao/LC4651/blob/master/DFS/L4_HW_78_Subsets.java)|DFS模板|
 |5|[DFS](https://github.com/LegoGao/LC4651/tree/master/DFS)|[39. Combination Sum](https://github.com/LegoGao/LC4651/blob/master/DFS/L5_39_Combination%20Sum.java)|40,216,93,254|DFS模板|
+|6|[Array](https://github.com/LegoGao/LC4651/tree/master/Array)|[insertionSort](https://github.com/LegoGao/LC4651/blob/master/Array/insertionSort.java)|quickSort|排序|
